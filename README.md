@@ -10,7 +10,7 @@ For the repository containing the source code of MGflashfm R package, see: https
 Paper citation:
 
 > *Leveraging information between multiple population groups and traits improves fine-mapping resolution* <br />
-> Feng Zhou, Opeyemi Soremekun, Tinashe Chikowore, Segun Fatumo, Inês Barroso, Andrew P Morris, Jennifer L Asimit <br />
+> F Zhou, O Soremekun, T Chikowore, S Fatumo, I Barroso, AP Morris, JL Asimit <br />
 > bioRxiv ...; doi: ...
 
 For more details, see the folder (GLGC_data_scripts/) and the paper (Methods and Supplementary Materials)
