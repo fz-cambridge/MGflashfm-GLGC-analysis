@@ -20,9 +20,9 @@ GLGC performed a multi-group genome-wide meta-analysis of lipid levels in 1.65 m
 
 We used MGflashfm and MGfm to fine-map signals among HDL, LDL, TG, and TC in the five groups, and provide the following scripts and data:
 
-- GLGC_analysis.R: the main analysis script that prepares the data for fine-mapping analysis and runs the analyses
-- QCfunctions.R: a dependency in the GLGC_analysis.R script, here we provide functions that we used to perform quality control on the GWAS summary data from each population group
-- GLGC_input_50regions_chr_pos_index_100k.csv: Details of fine-mapped regions
+- *GLGC_analysis.R:* the main analysis script that prepares the data for fine-mapping analysis and runs the analyses
+- *QCfunctions.R:* a dependency in the GLGC_analysis.R script, here we provide functions that we used to perform quality control on the GWAS summary data from each population group
+- *GLGC_input_50regions_chr_pos_index_100k.csv:* Details of fine-mapped regions
 
 ## Reference
 [^1]: Graham, S. E. et al. (2021) *The power of genetic diversity in genome-wide association studies of lipids.*. Nature 600, 675–679. [https://www.nature.com/articles/s41467-020-14791-2](https://www.nature.com/articles/s41586-021-04064-3).
