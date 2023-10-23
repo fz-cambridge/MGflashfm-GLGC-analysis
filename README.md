@@ -1,4 +1,7 @@
 # MGflashfm-GLGC-analysis
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/639824830.svg)](https://zenodo.org/doi/10.5281/zenodo.10034535)
+<!-- badges: end -->
 The MGflashfm-Global Lipids Genetic Consortium (GLGC) analysis scripts and instructions
 
 ## Replication
