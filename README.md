@@ -14,7 +14,8 @@ Paper citation:
 
 > *Leveraging information between multiple population groups and traits improves fine-mapping resolution* <br />
 > F Zhou, O Soremekun, T Chikowore, S Fatumo, I Barroso, AP Morris, JL Asimit <br />
-> Preprint: bioRxiv 2023.05.31.543028; doi: https://doi.org/10.1101/2023.05.31.543028
+> The paper and its supplementary material are published in *Nature Communications*
+> doi: https://doi.org/10.1038/s41467-023-43159-5
 
 For more details, see the folder (GLGC_data_scripts/) and the paper (Methods and Supplementary Materials)
 
